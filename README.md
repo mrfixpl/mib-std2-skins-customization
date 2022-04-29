@@ -16,7 +16,7 @@ Assets ready for MIB2 STD skin customization
 * Enter hidden menu, switch to new skin, exit menu.
 
 ## Available changes
-### `MST2_EU_VW_ZR_P0245T`
+### `MST2_EU_VW_ZR_P0245T/skin1`
 * `menu_appleIcons`
 * `menu_seatIcons`
 * `menu_whiteTiles`
@@ -24,5 +24,5 @@ Assets ready for MIB2 STD skin customization
 * `offroadDisplay_slickWheel`
 * `standbyClock_mickey`
 
-### `MST2_EU_VW_ZR_P0478T`
+### `MST2_EU_VW_ZR_P0478T/skin5`
 * `offroadDisplay_slickWheel`
