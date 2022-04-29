@@ -17,6 +17,7 @@ Assets ready for MIB2 STD skin customization
 
 ## Available changes
 ### `MST2_EU_VW_ZR_P0245T`
+* `menu_whiteTiles`
 * `offroadDisplay_redScales`
 * `offroadDisplay_slickWheel`
 * `standbyClock_mickey`
