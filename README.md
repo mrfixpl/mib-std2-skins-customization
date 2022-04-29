@@ -23,3 +23,6 @@ Assets ready for MIB2 STD skin customization
 * `offroadDisplay_redScales`
 * `offroadDisplay_slickWheel`
 * `standbyClock_mickey`
+
+### `MST2_EU_VW_ZR_P0478T`
+* `offroadDisplay_slickWheel`
