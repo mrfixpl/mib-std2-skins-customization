@@ -3,6 +3,8 @@ Assets ready for MIB2 STD skin customization
 
 ⚠️ This is not ready yet!
 
+![Offroad Display with red scales](https://raw.githubusercontent.com/mrfixpl/mib-std2-skins-customization/main/previews/SCREENSHOT_CarMainOffroad_redScales.jpg)
+
 ## How to use
 * Check if your unit is running one of the supported SW Trains. Update firmware if required. If you don't do it, you need to manually check file names to confirm that you are replacing the right thing
 * Enable developer mode in module 5F.
