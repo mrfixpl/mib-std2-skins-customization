@@ -27,6 +27,6 @@ Assets ready for MIB2 STD skin customization
 * `offroadDisplay_slickWheel`
 * `standbyClock_mickey`
 
-### `MST2_EU_VW_ZR_P0478T`
+### `MST2_EU_VW_ZR_P0480T`
 #### `skin5`
 * `offroadDisplay_slickWheel`
