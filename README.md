@@ -29,4 +29,5 @@ Assets ready for MIB2 STD skin customization
 
 ### `MST2_EU_VW_ZR_P0480T`
 #### `skin5`
-* `offroadDisplay_slickWheel`
+* `offroadDisplay_slickWheel` with slick tyre for the offroad display
+* `clocks_MJ23` with Michael Jordan clock faces
